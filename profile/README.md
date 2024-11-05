@@ -1,5 +1,5 @@
 # Welcome, guys
-Welcome to (**Word by Word**)!
+Welcome to ***Word by Word***!
 Our organization is a team of ambitious developers, eager to learn new things and improve themselves.
 We strive for constant growth and are always open to new ideas.
 
